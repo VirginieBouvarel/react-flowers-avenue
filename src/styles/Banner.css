@@ -1,0 +1,16 @@
+.f-banner {
+    color:#fff;
+    padding:10px;
+    background-color:#C71585;
+    display: flex;
+	align-items: center;
+}
+
+.f-title {
+    padding-left:32px;
+}
+
+.f-logo {
+    height:45px;
+    width:45px;
+}

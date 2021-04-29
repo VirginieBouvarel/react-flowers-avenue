@@ -1,0 +1,48 @@
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin:0.5rem;
+}
+h3 {
+    margin-left:1rem;
+}
+.f-form-right {
+    text-align:right;
+    margin:1rem;
+}
+.f-form-btn {
+    margin-left:0.5rem;
+    border:none;
+    background-color:#C71585;
+    color:#fff;
+    padding:0.2rem;
+    border-radius:3px;
+}
+.cat {
+    display: flex;
+    flex-wrap:wrap;
+}
+.fa-plants-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;
+}
+.fa-promo {
+    color:red;
+    font-weight:bolder;
+    font-size:1rem;
+    font-style:italic;
+}
+.f-form-bottom {
+    display: flex;
+    align-items: center;
+    margin:1rem;
+}
+.f-form-question {
+    width:300px;
+}

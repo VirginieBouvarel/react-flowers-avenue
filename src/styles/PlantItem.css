@@ -1,0 +1,13 @@
+.fa-plants-item {
+    border: solid 2px black;
+	border-radius: 10px;
+	width: 220px;
+	margin: 10px;
+    padding:10px;
+    text-align:center;
+}
+
+.fa-plants-item-cover {
+	width: 150px;
+}
+
